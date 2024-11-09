@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[headers]]
+  # ...
+
+[[build.processing]]
+  cache = true
+
+[cache]
+  node_modules = true
