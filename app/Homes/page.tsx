@@ -12,7 +12,7 @@ const Homes = () => {
       className="homes"
     >
       <div className="homes-text">
-        <h1 style={{ fontSize: "3.5rem" }}>Feel the Pearl Difference</h1>
+        <h1 style={{ fontSize: "1.5rem" }}>Feel the Pearl Difference</h1>
         <p>
           More than 50 years of hospitality experience brings you the best hotels in Pakistan, 
           where luxury meets tradition, and every stay is a journey of refined elegance and unparalleled comfort. 
