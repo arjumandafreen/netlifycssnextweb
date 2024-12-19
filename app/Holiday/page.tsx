@@ -15,7 +15,7 @@ const Holiday = () => {
       </div>
       <div className="holiday-text">
         <h5> A World of Privilege  </h5>
-        <h2>How was the stay at Hotel Pearl?</h2>
+        <h1 style={{ fontSize: "1.0rem" }}> How was the stay at Hotel Pearl?</h1>
         <p>
           Become a member of a select group of individuals who enjoy exclusive benefits across all our hotels. Ranging from dining privileges to spa and wellness discounts.
         </p>
